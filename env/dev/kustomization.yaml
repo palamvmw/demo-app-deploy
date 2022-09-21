@@ -6,4 +6,4 @@ resources:
 images:
 - name: ghcr.io/argocon2022-workshop/demo-app
   newName: ghcr.io/palamvmw/demo-app
-  newTag: 5fb03719ac391c2f9bf2f60832e35c7cdc3d067a
+  newTag: 0dd88b07d8b36df3aca4137fa0f1c8d6be728e6a
