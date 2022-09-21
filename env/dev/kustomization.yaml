@@ -3,3 +3,8 @@ kind: Kustomization
 
 resources:
 - ../../base
+
+images:
+- name: ghcr.io/palamvmw/demo-app
+  newName: ghcr.io/palamvmw/demo-app
+  newTag: f2424d8011b669ebc2a3fc79ddae846f99b1ec65
